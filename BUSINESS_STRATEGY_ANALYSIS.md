@@ -8,7 +8,7 @@ date: June 2026
 
 ## Executive Summary
 
-FindIt AI represents a significant commercial opportunity within the higher education and campus facilities management sector. This analysis quantifies market opportunity, defines target customer profiles, establishes competitive positioning, and outlines a pragmatic 18-month roadmap to market entry and scaling. The platform addresses a fragmented, underserved market characterized by inefficient legacy processes (WhatsApp groups, physical reception desks, paper logs) and substantial administrative overhead. Through a B2B subscription model targeting universities and large campus venues across the DACH region and broader European markets, FindIt AI projects reaching €500,000–€850,000 in annual recurring revenue (ARR) by month 24, contingent on successful customer acquisition and implementation of the outlined GTM strategy.
+FindIt AI represents a significant commercial opportunity within the higher education and campus facilities management sector. This analysis quantifies market opportunity, defines target customer profiles, establishes competitive positioning, and outlines a pragmatic 18-month roadmap to market entry and scaling. The platform addresses a fragmented, underserved market characterized by inefficient legacy processes (WhatsApp groups, physical reception desks, paper logs) and substantial administrative overhead. Through a B2B subscription model targeting universities and large campus venues across the DACH region and broader European markets, FindIt AI projects reaching €47,760 in annual recurring revenue (ARR) by month 24, contingent on successful customer acquisition and implementation of the outlined GTM strategy.
 
 ---
 
@@ -16,14 +16,26 @@ FindIt AI represents a significant commercial opportunity within the higher educ
 
 ### 1.1 Total Addressable Market (TAM) – Global Higher Education Sector
 
-The TAM calculation focuses on the European higher education and campus facilities management market, the logical geographic anchor for initial expansion.
+The TAM calculation begins with a global assessment of the higher education market, then cascades down to regional focus areas for strategic planning.
 
-**TAM Calculation Methodology:**
+**Global TAM Calculation Methodology:**
+
+- **Geographic Scope:** Global Higher Education Institutions (HEIs) across all regions
+- **HEI Count (Global):** Approximately 25,000 universities and colleges operate worldwide
+- **Average Subscription Value (ASV):** €2,388 annually per institution (midpoint of €99–€299/month pricing: €1,188–€3,588/year)
+- **Global TAM Calculation:**
+  - 25,000 institutions × €2,388/year = **€59,700,000 globally**
+
+This represents the theoretical total addressable market if FindIt AI achieved universal adoption across all global higher education institutions.
+
+**European TAM (Primary Strategic Focus):**
+
+The European market represents the primary focus for initial expansion due to regulatory alignment (GDPR), digital maturity, and operational readiness.
 
 - **Geographic Scope:** European Higher Education Institutions (HEIs)
 - **HEI Count (Europe):** Approximately 4,250 universities and colleges operate across Europe (EU-27, UK, Switzerland, Norway)
 - **Average Subscription Value (ASV):** €2,388 annually per institution (midpoint of €99–€299/month pricing: €1,188–€3,588/year)
-- **TAM Calculation:**
+- **European TAM Calculation:**
   - 4,250 institutions × €2,388/year = **€10.1 million annually**
 
 This conservative TAM reflects the European-focused market opportunity if FindIt AI captured market penetration across all eligible higher education institutions. This excludes secondary markets (municipal libraries, event venues, dormitories, corporate campuses), which would expand TAM to approximately €15–€18 million when included.
@@ -111,6 +123,7 @@ This conservative estimate reflects:
 
 | Metric | Calculation | Value (EUR) | Notes |
 |--------|-----------|------------|-------|
+| **TAM – Global HEIs** | 25,000 institutions × €2,388/year | €59,700,000 | All global higher ed institutions |
 | **TAM – European HEIs** | 4,250 institutions × €2,388/year | €10,138,000 | All European higher ed institutions |
 | **SAM – DACH + Adjacent** | 925 institutions × €2,388/year | €2,208,900 | Primary addressable market (DACH + regional) |
 | **SOM – Year 1** | 8 institutions × €2,388/year | €19,104 | Pilot + early adopters |
@@ -138,6 +151,7 @@ FindIt AI's B2B model targets three primary buyer segments within universities a
 
 **Pain Points:**
 - **Administrative Labor Overhead:** 2–3 FTE annually spent managing lost-and-found (receiving reports, logging items, contacting claimants). At €50,000/FTE loaded cost, this represents €100,000–€150,000 annual labor expense per institution.
+- **Extreme System Fragmentation:** Current operations scattered across isolated WhatsApp groups (unencrypted, unsearchable, GDPR-noncompliant), separate physical reception desks with manual paper logs, social media posts on Facebook groups (viral for 24 hours then lost to scrollback), and email silos by department. Staff cannot correlate lost reports across channels; items disappear into information chaos.
 - **Storage/Inventory Overflow:** Unclaimed items accumulate (50–200 items/month at large campuses); require dedicated storage space (€2,000–€5,000/month rent for climate-controlled facility).
 - **Liability & Legal Risk:** No systematic ownership verification; disputed claims and missing item disputes create minor legal exposure and reputational damage.
 - **Zero Visibility:** No centralized reporting on lost-and-found metrics (recovery rate, common item categories, high-risk locations); unable to optimize security measures or resource allocation.
@@ -424,7 +438,7 @@ FindIt AI's GTM strategy leverages three sequential acquisition levers, sequence
   - NPS >50; CSAT >4.0/5.0
   - Conversion of pilot to 12-month paid contract
 - **Timeline:** 4 months
-- **Cost:** €3,000–€5,000 (server hosting, travel for customer meetings, minor customization)
+- **Cost:** €1,000–€1,500 (server hosting, travel for customer meetings, minor customization)
 
 ---
 
@@ -584,7 +598,7 @@ FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activit
 
 FindIt AI addresses a substantial, underserved market opportunity within European higher education and campus facilities management. The addressable market (SAM) of €2.2 million annually across 925 DACH institutions provides ample runway for sustainable growth. The competitive landscape remains fragmented and analog, offering a clear differentiation path through centralized, AI-powered matching and institutional compliance.
 
-The proposed B2B subscription model (€99–€299/month tiered pricing) aligns with university operational priorities, delivers measurable ROI within 8–10 weeks, and generates predictable recurring revenue. The conservative SOM projection of 15–20 institutions and €50,000 ARR by Month 24 is achievable through disciplined execution of the outlined GTM strategy and €35,000 in seed capital for infrastructure, AI development, and customer acquisition.
+The proposed B2B subscription model (€99–€299/month tiered pricing) aligns with university operational priorities, delivers measurable ROI within 8–10 weeks, and generates predictable recurring revenue. The conservative SOM projection of 15–20 institutions and €47,760 ARR by Month 24 is achievable through disciplined execution of the outlined GTM strategy and €35,000 in seed capital for infrastructure, AI development, and customer acquisition.
 
 Success hinges on three critical execution priorities:
 1. **Pilot Excellence:** Deliver exceptional experience at home institution; establish compelling case study and referenceable customer by Month 6
