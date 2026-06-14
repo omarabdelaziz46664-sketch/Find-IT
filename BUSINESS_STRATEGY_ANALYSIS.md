@@ -8,7 +8,7 @@ date: June 2026
 
 ## Executive Summary
 
-FindIt AI represents a significant commercial opportunity within the higher education and campus facilities management sector. This analysis quantifies market opportunity, defines target customer profiles, establishes competitive positioning, and outlines a pragmatic 18-month roadmap to market entry and scaling. The platform addresses a fragmented, underserved market characterized by inefficient legacy processes (WhatsApp groups, physical reception desks, paper logs) and substantial administrative overhead. Through a B2B subscription model targeting universities and large campus venues across the DACH region and broader European markets, FindIt AI projects reaching €47,760 in annual recurring revenue (ARR) by month 24, contingent on successful customer acquisition and implementation of the outlined GTM strategy.
+FindIt AI represents a significant commercial opportunity within the higher education and campus facilities management sector. This analysis quantifies market opportunity, defines target customer [...]
 
 ---
 
@@ -24,7 +24,7 @@ The TAM calculation begins with a global assessment of the higher education mark
 - **HEI Count (Global):** Approximately 25,000 universities and colleges operate worldwide
 - **Average Subscription Value (ASV):** €2,388 annually per institution (midpoint of €99–€299/month pricing: €1,188–€3,588/year)
 - **Global TAM Calculation:**
-  - 25,000 institutions × €2,388/year = **€59,700,000 globally**
+  - 25,000 institutions x €2,388/year = **€59,700,000 globally**
 
 This represents the theoretical total addressable market if FindIt AI achieved universal adoption across all global higher education institutions.
 
@@ -36,9 +36,9 @@ The European market represents the primary focus for initial expansion due to re
 - **HEI Count (Europe):** Approximately 4,250 universities and colleges operate across Europe (EU-27, UK, Switzerland, Norway)
 - **Average Subscription Value (ASV):** €2,388 annually per institution (midpoint of €99–€299/month pricing: €1,188–€3,588/year)
 - **European TAM Calculation:**
-  - 4,250 institutions × €2,388/year = **€10.1 million annually**
+  - 4,250 institutions x €2,388/year = **€10,149,000 annually**
 
-This conservative TAM reflects the European-focused market opportunity if FindIt AI captured market penetration across all eligible higher education institutions. This excludes secondary markets (municipal libraries, event venues, dormitories, corporate campuses), which would expand TAM to approximately €15–€18 million when included.
+This conservative TAM reflects the European-focused market opportunity if FindIt AI captured market penetration across all eligible higher education institutions. This excludes secondary markets ([...]
 
 **Supporting Data:**
 - Eurostat reports 4.25 million students enrolled across ~4,250 HEIs in Europe (2024)
@@ -49,7 +49,7 @@ This conservative TAM reflects the European-focused market opportunity if FindIt
 
 ### 1.2 Serviceable Addressable Market (SAM) – DACH Region & Strategic Expansion
 
-The SAM narrows focus to our primary addressable geographic and institutional segments: the DACH region (Germany, Austria, Switzerland) plus adjacent Western European markets with strong digitalization maturity and high GDPR/data privacy focus.
+The SAM narrows focus to our primary addressable geographic and institutional segments: the DACH region (Germany, Austria, Switzerland) plus adjacent Western European markets with strong digitaliz[...]
 
 **SAM Calculation Methodology:**
 
@@ -66,7 +66,7 @@ The SAM narrows focus to our primary addressable geographic and institutional se
 
 - **Total SAM Addressable Institutions:** 925 HEIs
 - **SAM Revenue Calculation:**
-  - 925 institutions × €2,388/year = **€2.21 million annually**
+  - 925 institutions x €2,388/year = **€2.21 million annually**
 
 **SAM Rationale:**
 - DACH region selected for Year 1–2 focus due to:
@@ -87,25 +87,25 @@ The SOM represents our realistic, achievable market capture within 18–36 month
 **Phase 1 (Months 1–12):**
 - Target Institutions: 8 pilot + early-adopter universities (DACH region)
 - Average Contract Value (ACV): €2,388/year
-- Phase 1 Revenue: 8 × €2,388 = **€19,104**
+- Phase 1 Revenue: 8 x €2,388 = **€19,104**
 
 **Phase 2 (Months 13–24):**
 - Target Institutions: Additional 12 universities (regional expansion)
 - Cumulative Total: 20 universities
-- Phase 2 Incremental Revenue: 12 × €2,388 = €28,656
-- Phase 2 Total ARR: 20 × €2,388 = **€47,760**
+- Phase 2 Incremental Revenue: 12 x €2,388 = €28,656
+- Phase 2 Total ARR: 20 x €2,388 = **€47,760**
 
 **Phase 3 (Months 25–36):**
 - Target Institutions: Additional 10 universities + 5 secondary venues (libraries, dormitories)
 - Cumulative Total: 35 institutions
-- Phase 3 Incremental Revenue: 15 × €2,388 = €35,820
-- Phase 3 Total ARR: 35 × €2,388 = **€83,580**
+- Phase 3 Incremental Revenue: 15 x €2,388 = €35,820
+- Phase 3 Total ARR: 35 x €2,388 = **€83,580**
 
 **3-Year SOM Total ARR (Year 3): €83,580**
 **3-Year Cumulative Revenue: €150,000** (accounting for partial-year captures and contract timing)
 
 **Conservative Assumptions Embedded:**
-- 8% market penetration of DACH region institutions by end of Year 3 (8% of 100 initial targets = realistic given sales cycle length, implementation time, and competitive friction)
+- Conservative penetration: by end of Year 3, 35 institutions represent 5.5% penetration of DACH region institutions (35/635) and 3.8% penetration of total SAM (35/925)
 - 12-month average sales cycle (universities require 3–6 month procurement, board approval, budgeting alignment)
 - 92% gross retention rate (high switching costs; minimal churn post-implementation)
 - No revenue from freemium student tier (B2C model kept separate; monetization deferred to Year 4+)
@@ -123,12 +123,12 @@ This conservative estimate reflects:
 
 | Metric | Calculation | Value (EUR) | Notes |
 |--------|-----------|------------|-------|
-| **TAM – Global HEIs** | 25,000 institutions × €2,388/year | €59,700,000 | All global higher ed institutions |
-| **TAM – European HEIs** | 4,250 institutions × €2,388/year | €10,138,000 | All European higher ed institutions |
-| **SAM – DACH + Adjacent** | 925 institutions × €2,388/year | €2,208,900 | Primary addressable market (DACH + regional) |
-| **SOM – Year 1** | 8 institutions × €2,388/year | €19,104 | Pilot + early adopters |
-| **SOM – Year 2** | 20 institutions × €2,388/year | €47,760 | Cumulative ARR after Phase 2 |
-| **SOM – Year 3** | 35 institutions × €2,388/year | €83,580 | Cumulative ARR after Phase 3 |
+| **TAM – Global HEIs** | 25,000 institutions x €2,388/year | €59,700,000 | All global higher ed institutions |
+| **TAM – European HEIs** | 4,250 institutions x €2,388/year | €10,149,000 | All European higher ed institutions |
+| **SAM – DACH + Adjacent** | 925 institutions x €2,388/year | €2,208,900 | Primary addressable market (DACH + regional) |
+| **SOM – Year 1** | 8 institutions x €2,388/year | €19,104 | Pilot + early adopters |
+| **SOM – Year 2** | 20 institutions x €2,388/year | €47,760 | Cumulative ARR after Phase 2 |
+| **SOM – Year 3** | 35 institutions x €2,388/year | €83,580 | Cumulative ARR after Phase 3 |
 | **SOM – 3-Year Cumulative Revenue** | Blended monthly/annual captures | €150,000 | Total cash collected across 36 months |
 | **SAM-to-SOM Penetration (Year 3)** | 35 ÷ 925 = 3.8% | 3.8% | Conservative market share of addressable base |
 
@@ -150,11 +150,11 @@ FindIt AI's B2B model targets three primary buyer segments within universities a
 - **Key Influencers:** Campus Security Director, IT Director, Student Services VP
 
 **Pain Points:**
-- **Administrative Labor Overhead:** 2–3 FTE annually spent managing lost-and-found (receiving reports, logging items, contacting claimants). At €50,000/FTE loaded cost, this represents €100,000–€150,000 annual labor expense per institution.
-- **Extreme System Fragmentation:** Current operations scattered across isolated WhatsApp groups (unencrypted, unsearchable, GDPR-noncompliant), separate physical reception desks with manual paper logs, social media posts on Facebook groups (viral for 24 hours then lost to scrollback), and email silos by department. Staff cannot correlate lost reports across channels; items disappear into information chaos.
-- **Storage/Inventory Overflow:** Unclaimed items accumulate (50–200 items/month at large campuses); require dedicated storage space (€2,000–€5,000/month rent for climate-controlled facility).
+- **Administrative Labor Overhead:** 2–3 FTE annually spent managing lost-and-found (receiving reports, logging items, contacting claimants). At €50,000/FTE loaded cost, this represents €10[...]
+- **Extreme System Fragmentation:** Current operations scattered across isolated WhatsApp groups (unencrypted, unsearchable, GDPR-noncompliant), separate physical reception desks with manual pape[...]
+- **Storage/Inventory Overflow:** Unclaimed items accumulate (50–200 items/month at large campuses); require dedicated storage space (€2,000–€5,000/month rent for climate-controlled facil[...]
 - **Liability & Legal Risk:** No systematic ownership verification; disputed claims and missing item disputes create minor legal exposure and reputational damage.
-- **Zero Visibility:** No centralized reporting on lost-and-found metrics (recovery rate, common item categories, high-risk locations); unable to optimize security measures or resource allocation.
+- **Zero Visibility:** No centralized reporting on lost-and-found metrics (recovery rate, common item categories, high-risk locations); unable to optimize security measures or resource allocation[...]
 
 #### **Persona 2: Campus Security Director / Head of Safety**
 
@@ -166,7 +166,7 @@ FindIt AI's B2B model targets three primary buyer segments within universities a
 - **Key Influencers:** Campus Administration, Student Services, IT Director
 
 **Pain Points:**
-- **Item Verification & Theft Prevention:** Manual verification of item ownership is time-consuming and error-prone; no systematic way to prevent fraudulent claims or identify repeat theft patterns.
+- **Item Verification & Theft Prevention:** Manual verification of item ownership is time-consuming and error-prone; no systematic way to prevent fraudulent claims or identify repeat theft patter[...]
 - **Cross-Department Coordination:** Lost-and-found reports scattered across WhatsApp, email, Facebook groups; cannot cross-reference with incident reports or security cameras.
 - **Compliance Reporting:** No auditable trail for item handling, custody chain, or disposition decisions; difficult to demonstrate due diligence in disputed claim scenarios.
 
@@ -220,7 +220,7 @@ Across all personas, universities evaluate lost-and-found solutions against the 
 
 ### 3.1 Competitive Landscape: Fragmented Legacy Channels
 
-FindIt AI faces no direct competitors offering integrated, AI-powered lost-and-found solutions for campuses. Instead, the competitive set comprises fragmented, manual processes that institutions have cobbled together over decades.
+FindIt AI faces no direct competitors offering integrated, AI-powered lost-and-found solutions for campuses. Instead, the competitive set comprises fragmented, manual processes that institutions [...]
 
 #### **Current State Competitors:**
 
@@ -326,8 +326,7 @@ FindIt AI employs a three-tier subscription model based on institution size, use
   - Item retention policy (auto-deletion after 90 days, configurable)
 - **Ideal Institution Profile:** 2,000–5,000 enrolled students; single main campus; 2–4 staff managing lost-and-found
 - **Monthly Cost Analysis:**
-  - Labor savings: 1 FTE × €50,000/year ÷ 12 = €4,167/month
-  - Hosting/system costs: ~€200–300/month
+  - Labor savings: 1 FTE x €50,000/year ÷ 12 = €4,167/month
   - Net savings to institution: €3,000+/month
   - Payback period: 3–4 weeks
 
@@ -347,9 +346,7 @@ FindIt AI employs a three-tier subscription model based on institution size, use
   - Item retention policies per location
 - **Ideal Institution Profile:** 8,000–15,000 enrolled students; 2–5 campuses; 8–15 staff managing lost-and-found across locations
 - **Monthly Cost Analysis:**
-  - Labor savings: 1.5 FTE × €50,000/year ÷ 12 = €6,250/month
-  - Hosting/system costs: ~€400–500/month
-  - API integration costs: ~€50–100/month
+  - Labor savings: 1.5 FTE x €50,000/year ÷ 12 = €6,250/month
   - Net savings to institution: €5,300+/month
   - Payback period: 2–3 weeks
 
@@ -369,9 +366,7 @@ FindIt AI employs a three-tier subscription model based on institution size, use
   - SLA guarantee (99.9% uptime; incident response SLA)
 - **Ideal Institution Profile:** 20,000+ enrolled students; 5+ campuses; 30+ staff; complex internal processes; high regulatory requirements
 - **Monthly Cost Analysis:**
-  - Labor savings: 2–2.5 FTE × €50,000/year ÷ 12 = €8,300–€10,400/month
-  - Hosting/system costs: ~€600–800/month
-  - Custom development/integration: ~€200–300/month
+  - Labor savings: 2–2.5 FTE x €50,000/year ÷ 12 = €8,300–€10,400/month
   - Net savings to institution: €7,200+/month
   - Payback period: 1.5–2 weeks
 
@@ -379,7 +374,7 @@ FindIt AI employs a three-tier subscription model based on institution size, use
 
 ### 4.2 Strategic Rationale: B2B Subscription vs. Student Charging
 
-FindIt AI deliberately rejects a B2C freemium model (charging students for premium features) in favor of a pure B2B institutional subscription model. This decision reflects three strategic imperatives:
+FindIt AI deliberately rejects a B2C freemium model (charging students for premium features) in favor of a pure B2B institutional subscription model. This decision reflects three strategic impera[...]
 
 #### **1. Alignment with University Mission & Student Welfare Goals**
 - Universities are institutionally committed to student welfare and support services
@@ -391,7 +386,7 @@ FindIt AI deliberately rejects a B2C freemium model (charging students for premi
 - Universities have 12-month budget cycles; procurement contracts are institutional commitments
 - 12-month contracts lock in predictable revenue; monthly churn risk minimal (~2–5% annually post-implementation)
 - B2C freemium models suffer from unpredictable user attrition; retention rates highly variable (5–30% month-over-month)
-- Customer Lifetime Value (CLV) for B2B institutional subscriptions far exceeds B2C freemium (estimated 3–5 year average contract life; CLV €7,000–€20,000 per institution vs. CLV €50–200 per B2C user)
+- Customer Lifetime Value (CLV) for B2B institutional subscriptions far exceeds B2C freemium (estimated 3–5 year average contract life; CLV €7,000–€20,000 per institution vs. CLV €50–[...]
 
 #### **3. Simplified Go-to-Market & Sales Cycle**
 - One decision-maker (University Administration) vs. viral adoption of thousands of independent users
@@ -406,7 +401,7 @@ FindIt AI deliberately rejects a B2C freemium model (charging students for premi
 - B2B model keeps sensitive student data within institutional control; FindIt AI operates as institutional service, not external SaaS
 
 **Deferred Monetization (Year 3+):**
-Once FindIt AI achieves critical mass (15+ institutional customers, strong platform stability), future B2C or freemium monetization may be introduced as secondary revenue stream (premium student features: saved searches, alerts, item insurance). For Year 1–2 roadmap, B2B institutional focus is non-negotiable.
+Once FindIt AI achieves critical mass (15+ institutional customers, strong platform stability), future B2C or freemium monetization may be introduced as secondary revenue stream (premium student [...]
 
 ---
 
@@ -476,7 +471,7 @@ FindIt AI's GTM strategy leverages three sequential acquisition levers, sequence
   - 1 Founding Team Member (CEO/co-founder) devoted 50% to sales + customer success
   - External sales consultant (contract, 10–15 hours/week) for lead qualification, demo scheduling
 - **Budget:** €25,000–€35,000
-  - Consultant fees: €15,000–€20,000 (6–9 months × €200/hour)
+  - Consultant fees: €15,000–€20,000 (6–9 months x €200/hour)
   - Travel & customer meetings: €5,000–€8,000
   - Marketing collateral production (video, design): €5,000–€7,000
 
@@ -514,10 +509,10 @@ FindIt AI's GTM strategy leverages three sequential acquisition levers, sequence
 
 | **Quarter** | **Phase** | **Key Milestones** | **Resource Allocation** | **Success Metrics** |
 |---|---|---|---|---|
-| **Q1 (Months 1–3)** | Beachhead Pilot | • Finalize pilot agreement with home university<br>• Deploy beta platform (single campus)<br>• Recruit 50–100 student beta users<br>• Weekly product feedback + iteration | 1 FT Engineer + CEO 50% | • Zero critical bugs in production<br>• 70% staff adoption<br>• NPS >50<br>• 40%+ item recovery rate |
-| **Q2 (Months 4–6)** | Pilot Completion & Early Sales | • Complete pilot; document ROI case study<br>• Convert pilot customer to paid contract<br>• Launch direct sales to 5–7 universities<br>• Produce sales collateral (ROI calculator, case study, video)<br>• Execute 2 product demo days (conferences, university networks) | CEO 70% sales<br>1 FT Engineer<br>Sales Consultant 10h/wk | • Pilot customer signed to 12-mo contract<br>• 2–3 prospects in discovery phase<br>• Case study published + 3rd-party press pickup<br>• Sales pipeline >€50,000 ACV |
-| **Q3 (Months 7–9)** | Sales Cycle Execution | • Close 2 pilot customers from Q2 outreach<br>• Launch 2–3 new pilots with prospects in Q2 pipeline<br>• Begin onboarding/implementation for Q2 closures<br>• Hire Sales/BizDev Manager (start month 9)<br>• Expand marketing: content, webinars, regional conference attendance | CEO 60% sales<br>1 FT Engineer<br>Sales Consultant 15h/wk<br>Sales Manager hire (Month 9) | • 2 institutions live (Q2 closures onboarded)<br>• 3–4 pilots active<br>• 4–5 institutions in sales pipeline (various stages)<br>• Monthly ARR >€5,000<br>• Qualified pipeline >€100,000 ACV |
-| **Q4 (Months 10–12)** | Scale & Consolidation | • Close 2–3 institutions from Q3 pilots<br>• Sales Manager ramped (leading 3–4 new prospects)<br>• Finalize roadmap for Year 2 expansion (Benelux, Nordics)<br>• Refine GTM messaging based on Year 1 learnings<br>• Plan product roadmap for Year 2 (multi-campus features, integrations) | CEO 40% sales<br>1 FT Engineer<br>Sales Manager 100%<br>Contractor/BizDev support | • 6–8 institutions live<br>• Monthly ARR >€15,000<br>• Pipeline >€150,000 ACV<br>• 2–3 strong referenceable customers<br>• Churn rate <5% (zero involuntary churn)<br>• NPS >55 across customer base |
+| **Q1 (Months 1–3)** | Beachhead Pilot | • Finalize pilot agreement with home university<br>• Deploy beta platform (single campus)<br>• Recruit 50–100 student beta users<br>• Weekly [...]
+| **Q2 (Months 4–6)** | Pilot Completion & Early Sales | • Complete pilot; document ROI case study<br>• Convert pilot customer to paid contract<br>• Launch direct sales to 5–7 universit[...]
+| **Q3 (Months 7–9)** | Sales Cycle Execution | • Close 2 pilot customers from Q2 outreach<br>• Launch 2–3 new pilots with prospects in Q2 pipeline<br>• Begin onboarding/implementation [...]
+| **Q4 (Months 10–12)** | Scale & Consolidation | • Close 2–3 institutions from Q3 pilots<br>• Sales Manager ramped (leading 3–4 new prospects)<br>• Finalize roadmap for Year 2 expans[...]
 
 ---
 
@@ -525,17 +520,17 @@ FindIt AI's GTM strategy leverages three sequential acquisition levers, sequence
 
 ### 6.1 Seed Funding Request: €35,000
 
-FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activities across the 18-month period from pilot execution through early-stage scaling. This capital covers hosting infrastructure, AI model development, and customer acquisition costs necessary to reach 15 active subscriptions and €50,000 annual recurring revenue (ARR) by end of Year 2.
+FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activities across the 18-month period from pilot execution through early-stage scaling. This capital covers hosting infras[...]
 
 #### **Capital Allocation & Use of Funds:**
 
 | Category | Amount (EUR) | Duration | Purpose & Justification |
 |---|---|---|---|
-| **Cloud Hosting & Infrastructure** | €8,000 | 18 months | PostgreSQL database hosting, application servers (AWS/Azure), data backups, GDPR-compliant EU region infrastructure. Scales linearly with customer count. |
-| **AI Model Development & Tuning** | €6,000 | 18 months | Continuous improvement of NLP matching algorithm; customer-specific model fine-tuning; image recognition capability development. Contractor-based (€50–75/hour, 100–120 hours). |
-| **B2B Marketing & Sales Collateral** | €7,000 | 18 months | Case study production (design + copywriting, €3,000); ROI calculator tool development (€1,000); video production (demo + testimonial, €2,000); conference attendance & sponsorships (€1,000). |
-| **Sales & Customer Development** | €8,000 | 18 months | External sales consultant (€15,000 total, 50% cost-shared with revenue; €8,000 seed contribution); travel for customer meetings & pilots; customer success onboarding support. |
-| **Legal, Compliance & Operations** | €4,000 | 18 months | GDPR compliance documentation & audit (€2,000); SaaS standard contracts (DPA, SLA templates, €1,000); accounting & bookkeeping support (€1,000). |
+| **Cloud Hosting & Infrastructure** | €8,000 | 18 months | PostgreSQL database hosting, application servers (AWS/Azure), data backups, GDPR-compliant EU region infrastructure. Scales linearly [...]
+| **AI Model Development & Tuning** | €6,000 | 18 months | Continuous improvement of NLP matching algorithm; customer-specific model fine-tuning; image recognition capability development. Contr[...]
+| **B2B Marketing & Sales Collateral** | €7,000 | 18 months | Case study production (design + copywriting, €3,000); ROI calculator tool development (€1,000); video production (demo + testim[...]
+| **Sales & Customer Development** | €8,000 | 18 months | External sales consultant (€15,000 total, 50% cost-shared with revenue; €8,000 seed contribution); travel for customer meetings & p[...]
+| **Legal, Compliance & Operations** | €4,000 | 18 months | GDPR compliance documentation & audit (€2,000); SaaS standard contracts (DPA, SLA templates, €1,000); accounting & bookkeeping su[...]
 | **Contingency & Buffer** | €2,000 | 18 months | Unplanned product bugs, expedited customer support needs, market opportunities (conference sponsorships, emergency travel). |
 | **TOTAL** | **€35,000** | **18 months** | ~€1,950/month burn rate. Supported by early customer revenue from Month 6+ (reduces required capital). |
 
@@ -544,10 +539,10 @@ FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activit
 #### **Funding Sustainability & Breakeven Analysis:**
 
 - **Month 1–5:** Capital burn only (~€1,950/month = €9,750 cumulative)
-- **Month 6:** First customer revenue (1 institution, Tier 1 = €99/month; €50% capture = €50)
+- **Month 6:** First customer revenue (1 institution, Tier 1 = €99/month; 50% capture = €50)
 - **Month 9:** 2 active subscriptions (€198/month)
-- **Month 12:** 4 active subscriptions (€500/month expected ARR run rate)
-- **Month 18:** 8–10 active subscriptions (€2,000–€2,500/month expected ARR run rate)
+- **Month 12:** 4 active subscriptions (€500/month expected MRR run rate)
+- **Month 18:** 8–10 active subscriptions (€2,000–€2,500/month expected MRR run rate)
 
 **Breakeven Timeline:**
 - Cumulative Revenue (Months 6–18): €6,000–€8,000
@@ -556,8 +551,8 @@ FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activit
 - Full Seed Recoupment: Projected Month 24–28 (assuming continued customer acquisition at planned rate)
 
 **Alternative Funding Scenarios (Deferred):**
-- If seed capital unavailable: Reduce marketing spend (€7,000 → €3,000); extend GTM timeline by 3–4 months; seek revenue-sharing partnership with pilot customer (co-invest in product development)
-- If aggressive growth desired: Raise €75,000–€100,000 seed round; hire additional engineer + full-time sales manager earlier (Month 6 vs. Month 12); accelerate geographic expansion (Benelux, Nordics by Month 12 vs. Month 18)
+- If seed capital unavailable: Reduce marketing spend (€7,000 → €3,000); extend GTM timeline by 3–4 months; seek revenue-sharing partnership with pilot customer (co-invest in product deve[...]
+- If aggressive growth desired: Raise €75,000–€100,000 seed round; hire additional engineer + full-time sales manager earlier (Month 6 vs. Month 12); accelerate geographic expansion (Benelu[...]
 
 ---
 
@@ -572,7 +567,7 @@ FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activit
 | **M5: Geographic Expansion** | Month 14–15 | Benelux + Nordic outreach launched; 1–2 non-German-speaking pilots initiated | Pipeline >€100,000 ACV; localization roadmap approved |
 | **M6: 10-Customer Milestone** | Month 16–18 | 10 institutions live across DACH + adjacent regions | €2,000+/month ARR; network effects emerging (cross-campus coordination) |
 | **M7: Break-Even Unit Economics** | Month 14–16 | CAC ~€1,500; LTV ~€8,000 (3-year horizon); payback period <3 months | Positive contribution margin per customer; churn <5% annually |
-| **M8: 15-Customer & €50K ARR** | Month 24 (EOY2) | 15 institutions live; €50,000 annual recurring revenue; 3+ strong references | 5+ customers willing to be references; Net Revenue Retention >100% |
+| **M8: 20-Customer & €47.76K ARR** | Month 24 (EOY2) | 20 institutions live; €47,760 annual recurring revenue; 3+ strong references | 5+ customers willing to be references; Net Revenue Retentio[...] |
 
 ---
 
@@ -580,11 +575,11 @@ FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activit
 
 | KPI | Target (Month 12) | Target (Month 18) | Target (Month 24) | Measurement Method |
 |---|---|---|---|---|
-| **Active Subscriptions** | 4–5 | 8–10 | 15+ | Customer database count |
-| **Monthly Recurring Revenue (MRR)** | €400–500 | €1,500–2,000 | €4,000–4,500 | Sum of active subscription tiers |
-| **Annual Recurring Revenue (ARR)** | €5,000–6,000 | €18,000–24,000 | €50,000+ | MRR × 12 |
+| **Active Subscriptions** | 4–5 | 8–10 | 20 | Customer database count |
+| **Monthly Recurring Revenue (MRR)** | €400–500 | €1,500–2,000 | €3,980 | Sum of active subscription tiers |
+| **Annual Recurring Revenue (ARR)** | €5,000–6,000 | €18,000–24,000 | €47,760 | MRR x 12 |
 | **Customer Acquisition Cost (CAC)** | <€2,000 | <€1,500 | <€1,200 | Sales & marketing spend ÷ new customers |
-| **Customer Lifetime Value (LTV)** | >€8,000 | >€10,000 | >€15,000 | ARPU × gross margin % × expected lifetime (years) |
+| **Customer Lifetime Value (LTV)** | >€8,000 | >€10,000 | >€15,000 | ARPU x gross margin % x expected lifetime (years) |
 | **Gross Margin** | 65%–70% | 70%–75% | 75%–80% | (Revenue – hosting/AI costs) ÷ Revenue |
 | **Net Churn Rate** | <2% | <3% | <2% | (Lost MRR from churn) ÷ (Beginning MRR) |
 | **Net Revenue Retention (NRR)** | >95% | >100% | >105% | (Ending MRR – churn + expansion) ÷ (Beginning MRR) |
@@ -596,16 +591,16 @@ FindIt AI seeks **€35,000 in seed capital** to fund operations and GTM activit
 
 ## Conclusion
 
-FindIt AI addresses a substantial, underserved market opportunity within European higher education and campus facilities management. The addressable market (SAM) of €2.2 million annually across 925 DACH institutions provides ample runway for sustainable growth. The competitive landscape remains fragmented and analog, offering a clear differentiation path through centralized, AI-powered matching and institutional compliance.
+FindIt AI addresses a substantial, underserved market opportunity within European higher education and campus facilities management. The addressable market (SAM) of €2.2 million annually across[...]
 
-The proposed B2B subscription model (€99–€299/month tiered pricing) aligns with university operational priorities, delivers measurable ROI within 8–10 weeks, and generates predictable recurring revenue. The conservative SOM projection of 15–20 institutions and €47,760 ARR by Month 24 is achievable through disciplined execution of the outlined GTM strategy and €35,000 in seed capital for infrastructure, AI development, and customer acquisition.
+The proposed B2B subscription model (€99–€299/month tiered pricing) aligns with university operational priorities, delivers measurable ROI within 8–10 weeks, and generates predictable rec[...]
 
 Success hinges on three critical execution priorities:
 1. **Pilot Excellence:** Deliver exceptional experience at home institution; establish compelling case study and referenceable customer by Month 6
 2. **Direct Sales Discipline:** Maintain 6–9 month sales cycle; establish clear ROI messaging and customer success protocols; achieve 70%+ pilot-to-paid conversion rate
 3. **Product Roadmap Alignment:** Prioritize features that drive adoption (multi-campus coordination, integrations with university systems, advanced reporting) over feature bloat
 
-With disciplined execution and favorable market conditions (increasing university investment in student welfare, growing demand for GDPR-compliant solutions), FindIt AI is positioned to become the market-leading lost-and-found platform across European campuses by Year 3–4.
+With disciplined execution and favorable market conditions (increasing university investment in student welfare, growing demand for GDPR-compliant solutions), FindIt AI is positioned to become th[...]
 
 ---
 
